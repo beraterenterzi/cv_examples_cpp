@@ -1,0 +1,10 @@
+C:/Users/berat/Documents/GitHub/computer_vision_examples_cpp/build/CMakeFiles/Experimental.dir
+C:/Users/berat/Documents/GitHub/computer_vision_examples_cpp/build/CMakeFiles/Nightly.dir
+C:/Users/berat/Documents/GitHub/computer_vision_examples_cpp/build/CMakeFiles/Continuous.dir
+C:/Users/berat/Documents/GitHub/computer_vision_examples_cpp/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/berat/Documents/GitHub/computer_vision_examples_cpp/build/CMakeFiles/computer_vision_examples_cpp.dir
+C:/Users/berat/Documents/GitHub/computer_vision_examples_cpp/build/CMakeFiles/opencv.dir
+C:/Users/berat/Documents/GitHub/computer_vision_examples_cpp/build/CMakeFiles/PACKAGE.dir
+C:/Users/berat/Documents/GitHub/computer_vision_examples_cpp/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/berat/Documents/GitHub/computer_vision_examples_cpp/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/berat/Documents/GitHub/computer_vision_examples_cpp/build/CMakeFiles/ZERO_CHECK.dir

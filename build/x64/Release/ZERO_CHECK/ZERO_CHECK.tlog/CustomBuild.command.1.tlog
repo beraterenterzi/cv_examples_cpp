@@ -1,0 +1,10 @@
+^C:\USERS\BERAT\DOCUMENTS\GITHUB\COMPUTER_VISION_EXAMPLES_CPP\BUILD\CMAKEFILES\7CFC5873CBEA463659F839FE3EAAAD32\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/berat/Documents/GitHub/computer_vision_examples_cpp -BC:/Users/berat/Documents/GitHub/computer_vision_examples_cpp/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/berat/Documents/GitHub/computer_vision_examples_cpp/build/opencv.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
